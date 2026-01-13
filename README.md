@@ -42,7 +42,7 @@ The app displays all entries in a table and allows deleting selected records—a
 
 ## How It Works
 1. User enters expense details  
-2. App writes data to the SQLite database  
+2. App writes data to the MySQL database  
 3. Table refreshes to show the latest entries  
 4. User can select a row & delete it anytime
 
